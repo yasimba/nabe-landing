@@ -23,28 +23,28 @@
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "BOOST YOUR TELEGRAM ENGAGEMENTS",
     "href": "#"
   },
   "mainHero": {
-    "title": "NABE",
-    "subtitle": ".",
+    "title": "NA",
+    "subtitle": "BE",
     "description": "Scale engagement in your telegram community through crypto rewards",
-    "img": "/assets/images/teams.svg",
+    "img": "",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:fasfadsf@gmail.com?subject=I like react landing page!"
+      "href": ""
     }
   },
   "product": {
     "title": "Telegram engagement is broken. NABE fixes it",
     "items": [
       {
-        "title": "Work.Earn",
+        "title": "Engage. Earn",
         "description": "Karma points enhance sense of contribution. NABE takes it to another level. Now, your community can earn for their efforts in a tangible manner.",
         "img": "/assets/images/product1.jpg"
       },
@@ -62,7 +62,7 @@
   },
   "features": {
     "title": "TURN YOUR COMMUNITY INTO A DAO POWERHOUSE",
-    "subtitle": "/reward <user_wallet> 10 BNB",
+    "subtitle": "/reward <telegram_username> 10 BNB",
     "description": "Reward your community with simple commands in a transparent way. An engaged community is a successful project",
     "items": [
       {
